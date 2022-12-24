@@ -1,4 +1,4 @@
-<img src="https://cdn.statically.io/gh/craigary/nobelium/main/Nobelium-Logo.svg" width="50" height="50">
+<!-- <img src="https://cdn.statically.io/gh/craigary/nobelium/main/Nobelium-Logo.svg" width="50" height="50">
 
 # Nobelium
 
@@ -131,4 +131,4 @@ Check out our roadmap [here](https://www.notion.so/craigary/Public-Roadmap-3cfc4
 
 ## License
 
-The MIT License.
+The MIT License. -->
