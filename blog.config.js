@@ -41,7 +41,7 @@ const BLOG = {
     gitalkConfig: {
       repo: 'ruizenio', // The repository of store comments
       owner: 'ruizenio',
-      admin: [],
+      admin: ['ruizenio'],
       clientID: 'ef72da9c0d57ddfd05ce',
       clientSecret: 'd12c3eb539ff12f799007d29659efa938211dedf',
       distractionFreeMode: false
