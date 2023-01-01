@@ -10,5 +10,4 @@
 
 ## My Stats 💻
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizenio&hide=javascript,html,scss,css,sass,shell)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruizenio&show_icons=true&theme=tokyonight)
