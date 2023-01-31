@@ -1,6 +1,5 @@
 ## About
 
-- 🚀 Flutter, Kotlin, Golang
 - Contact me through abuaziscorp@gmail.com
 - http://abuzaio.tech
 
